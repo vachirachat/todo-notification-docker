@@ -18,6 +18,8 @@ Note that we can test only test_services.py::test_connectivity because other tes
 To run the container, use the following command:
 ```
 docker run -it --rm --name todo todo-notification:release-1
+
+change some readme
 ```
 
 ## Running
